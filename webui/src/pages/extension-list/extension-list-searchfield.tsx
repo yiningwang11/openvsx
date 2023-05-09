@@ -13,6 +13,8 @@ import SearchIcon from '@material-ui/icons/Search';
 import { Paper, IconButton, makeStyles, InputBase } from '@material-ui/core';
 import { MainContext } from '../../context';
 
+// this is a test
+
 const useStyles = makeStyles((theme) => ({
     search: {
         flex: 2,
